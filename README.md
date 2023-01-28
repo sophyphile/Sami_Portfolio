@@ -1,4 +1,4 @@
-# Sami_Portfolio
+# Sami's Portfolio
 
 <!---
 sophyphile/sophyphile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
